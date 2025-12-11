@@ -1,0 +1,2 @@
+# Plugins directory for custom Airflow plugins
+# Add your custom operators, sensors, hooks, or macros here
