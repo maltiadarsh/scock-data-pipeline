@@ -394,13 +394,7 @@ docker exec airflow_scheduler python /opt/airflow/scripts/fetch_stock_data.py
 | Scalability | Connection pooling, rate limiting, modular design | ✅ |
 | Code quality | Well-documented, type hints, logging | ✅ |
 
-## 📞 Support
 
-For issues or questions:
-
-1. Check the [Troubleshooting](#-troubleshooting) section
-2. Review Airflow logs: `docker-compose logs airflow-scheduler`
-3. Check database logs: `docker-compose logs postgres`
 
 ## 📄 License
 
