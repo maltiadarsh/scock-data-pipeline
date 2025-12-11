@@ -11,13 +11,6 @@ A production-ready, Dockerized data pipeline that automatically fetches stock ma
 - **Production Ready**: Environment-based configuration and security best practices
 - **Monitoring**: Detailed logging and execution statistics via Airflow UI
 
-## 📋 Prerequisites
-
-- Docker Desktop (or Docker Engine + Docker Compose)
-- Alpha Vantage API Key (free tier available at [alphavantage.co](https://www.alphavantage.co/support/#api-key))
-- 4GB+ RAM recommended
-- 10GB+ free disk space
-
 ## 🚀 Quick Start
 
 ### 1. Clone and Navigate
